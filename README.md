@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio
 It is in Progress
 =======
