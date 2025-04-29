@@ -23,7 +23,7 @@ All projects and experiences included in this portfolio are the result of my own
 
 ## Live Demo
 
-- Click [here]((https://portfolio-ecru-seven-24.vercel.app/)) to view the live demo.
+- Click [here](https://portfolio-ecru-seven-24.vercel.app/) to view the live demo.
 
 ## Getting Started
 
